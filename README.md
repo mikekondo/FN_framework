@@ -1,5 +1,5 @@
 # FN_framework
-CartPoleの環境を攻略
+CartPole再現
 
 # 使用したライブラリ
 
